@@ -99,4 +99,4 @@ I aim to be someone teams **trust with their data**.
 ## Links
 - **GitHub:** https://github.com/Swapnil-Srivatava  
 - **LinkedIn:** https://www.linkedin.com/in/swapnisrivastava-bu/
-- **Email:** Swapsri@bu.edu
+- **Email:** swapsri@bu.edu
