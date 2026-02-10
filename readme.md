@@ -1,102 +1,33 @@
-# Swapnil Srivastava
-### Data Analyst | Research & Data Management | Applied Analytics
+# Portfolio Summary
 
-I am a data analyst with a strong foundation in **data management, applied statistics, and research workflows**, currently pursuing graduate training in Epidemiology and Biostatistics. My work focuses on transforming complex, real-world data into **clean, structured, and analysis-ready datasets** that support credible research and public-facing insights.
+This portfolio presents applied work in **observational clinical and epidemiologic research**, with a strong emphasis on **reproducible statistical programming**, **confounding assessment**, and **industry-aligned analytic workflows**.
 
-I am especially interested in roles where **data accuracy, consistency, and interpretability matter**, and where analytical work informs research, reporting, or decision-making rather than purely predictive modeling.
+The projects use **SAS 9.4** to implement modular, end-to-end analyses that reflect real-world evidence and clinical research practices—from raw data integration and exclusion logic, through variable derivation, descriptive reporting, multivariable modeling, diagnostics, and model assessment. The focus is on **data quality, transparent assumptions, and defensible interpretation**, rather than purely academic modeling.
 
----
+Analyses address biologically and clinically relevant questions (e.g., inflammation, cognition, depressive symptoms) and demonstrate how crude associations can change after appropriate adjustment for confounders such as age, BMI, education, and lifestyle factors. Particular attention is paid to **functional form selection**, **effect modification**, and **regression diagnostics**, reflecting analytical judgment expected in regulatory, clinical, and real-world evidence settings.
 
-## What I Work On
+All projects are fully documented and organized to support reproducibility, code review, and collaboration. Collectively, this portfolio is designed to demonstrate not just technical proficiency, but **how I approach study design, analysis, and interpretation** in applied research contexts.
 
-### 🔹 Data Management & Structure
-- Cleaning, harmonizing, and validating large multi-source datasets  
-- Designing clear variable structures, taxonomies, and data dictionaries  
-- Ensuring internal consistency, traceability, and reproducibility  
+## Core Skills Demonstrated
+- SAS 9.4 (Base SAS, clinical-style programming)
+- PROC SQL, REG, GLM, GLMSELECT, FREQ, MEANS
+- Observational study design and confounding assessment
+- Effect modification and interaction modeling
+- Regression diagnostics and influence analysis
+- Modular, reproducible analytic workflows
+- Clear documentation and reporting
 
-I prioritize *getting the data right before analyzing it*.
+## Intended Roles
+- Statistical Programmer (Clinical / RWE)
+- Biostatistical Analyst
+- Epidemiologic or Outcomes Research Analyst
+- Real-World Evidence / Health Data Analyst
 
----
+## Notes
+- Projects use de-identified or simulated datasets where applicable
+- Analyses emphasize methodological rigor over predictive performance
+- Code is structured to reflect professional review and validation standards
 
-### 🔹 Applied Analysis & Research
-- Exploratory and descriptive analysis to identify patterns and trends  
-- Translating research questions into structured analytical workflows  
-- Applying statistical methods thoughtfully with documented assumptions  
-
-My focus is on **clarity and logic**, not unnecessary complexity.
-
----
-
-### 🔹 Programming & Tools
-- **R** – data wrangling, exploratory analysis, reproducible workflows  
-- **SAS** – structured data preparation, derivations, QC logic  
-- **SQL** – querying and joining relational datasets  
-- **Excel** – large-dataset handling, validation, and documentation  
-
-I use programming to support analytical reasoning and transparency.
-
----
-
-## Selected Projects
-
-### **SDTM Data Standardization Project**
-*End-to-end implementation of structured data mapping and QC workflows*
-
-- Simulated raw-to-standardized dataset transformations  
-- Designed variable derivations with documented logic  
-- Implemented validation and quality checks  
-- Produced reusable documentation and specifications  
-
-**Skills demonstrated:**  
-Data governance • taxonomy design • reproducibility • QC logic
-
----
-
-### **Homocysteine and Cognitive Outcomes Analysis**
-*Observational data analysis using clinical and demographic data*
-
-- Harmonized demographic, lab, and neurocognitive datasets  
-- Derived analysis-ready variables with transparent assumptions  
-- Conducted exploratory and statistical analyses  
-- Interpreted findings with attention to limitations  
-
-**Skills demonstrated:**  
-Data cleaning • exploratory analysis • applied statistics
-
----
-
-### **Systemic Inflammation and Depressive Symptoms**
-*Epidemiological research workflow*
-
-- Prepared analysis-ready datasets from raw observational data  
-- Built reproducible SAS programs  
-- Conducted multivariable analyses  
-- Documented analytical decisions clearly  
-
-**Skills demonstrated:**  
-Research design • data preparation • statistical reasoning
-
----
-
-## How I Work
-- Accountable and deadline-driven  
-- Detail-oriented without losing the broader research goal  
-- Comfortable working independently and collaboratively  
-- Curious, adaptable, and open to learning new domains  
-
-I aim to be someone teams **trust with their data**.
-
----
-
-## Interests
-- Survey and public opinion data  
-- Population-level and policy-relevant research  
-- Public-facing analytics and data credibility  
-- Trends across society, culture, and health  
-
----
-
-## Links
-- **GitHub:** https://github.com/Swapnil-Srivatava  
+Swapnil Srivastava  
 - **LinkedIn:** https://www.linkedin.com/in/swapnisrivastava-bu/
 - **Email:** swapsri@bu.edu
